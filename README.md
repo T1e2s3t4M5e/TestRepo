@@ -1,4 +1,4 @@
 # TestRepo
-Alpha
-Beta
-Gamma
+ * Alpha
+ * Beta
+ * Gamma
